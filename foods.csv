@@ -1,0 +1,59 @@
+Name,Category,Calories,Protein,Carbs,Fat,Fiber,Calcium,Iron,VitaminC,Sodium,Potassium
+Egg,Protein,143,12.6,0.7,9.5,0,56,1.8,0,142,138
+Chicken Breast,Protein,165,31,0,3.6,0,15,1,0,74,256
+Paneer,Protein,265,18.3,1.2,20.8,0,208,0.2,0,18,104
+Tofu,Protein,144,17.3,2.8,8.7,2.3,350,5.4,0,14,237
+Soya Chunks,Protein,345,52,33,0.5,13,350,20,0,15,1800
+Dal Cooked,Protein,116,9,20,0.4,8,19,3.3,1.5,2,369
+Rajma Cooked,Protein,127,8.7,22.8,0.5,6.4,28,2.9,0,1,405
+Chole Cooked,Protein,164,8.9,27.4,2.6,7.6,49,2.9,1.3,7,291
+Greek Yogurt,Protein,59,10,3.6,0.4,0,110,0.1,0,36,141
+Milk,Protein,61,3.2,4.8,3.3,0,113,0,0,43,132
+Curd,Protein,61,3.5,4.7,3.3,0,121,0.1,0,46,155
+Whey Protein,Protein,400,80,8,5,0,300,0.5,0,150,200
+Peanut Butter,Healthy Fat,588,25,20,50,6,43,1.9,0,17,649
+Almonds,Healthy Fat,579,21.2,21.6,49.9,12.5,269,3.7,0,1,733
+Peanuts,Healthy Fat,567,25.8,16.1,49.2,8.5,92,4.6,0,18,705
+Walnuts,Healthy Fat,654,15.2,13.7,65.2,6.7,98,2.9,1.3,2,441
+Oats,Carbohydrate,389,16.9,66.3,6.9,10.6,54,4.7,0,2,429
+White Rice Cooked,Carbohydrate,130,2.4,28.2,0.3,0.4,10,0.2,0,1,35
+Brown Rice Cooked,Carbohydrate,123,2.7,25.6,1,1.6,3,0.4,0,4,43
+Roti,Carbohydrate,297,9.6,61,1.7,9,35,3.6,0,300,405
+Bread,Carbohydrate,265,9,49,3.2,2.7,107,3.6,0,491,115
+Poha,Carbohydrate,374,6.7,76.9,1.1,1.5,20,2.6,0,7,125
+Paratha,Carbohydrate,260,6,40,8,4,40,2,0,350,120
+Potato Boiled,Carbohydrate,87,1.9,20.1,0.1,1.8,5,0.3,13,6,379
+Sweet Potato,Carbohydrate,86,1.6,20.1,0.1,3,30,0.6,2.4,55,337
+Pasta Cooked,Carbohydrate,157,5.8,30.9,0.9,1.8,7,1.3,0,1,44
+Corn,Carbohydrate,96,3.4,21,1.5,2.4,2,0.5,6.8,15,218
+Banana,Fruit,89,1.1,22.8,0.3,2.6,5,0.3,8.7,1,358
+Apple,Fruit,52,0.3,13.8,0.2,2.4,6,0.1,4.6,1,107
+Orange,Fruit,47,0.9,11.8,0.1,2.4,40,0.1,53.2,0,181
+Mango,Fruit,60,0.8,15,0.4,1.6,11,0.2,36.4,1,168
+Papaya,Fruit,43,0.5,10.8,0.3,1.7,20,0.3,60.9,8,182
+Watermelon,Fruit,30,0.6,7.6,0.2,0.4,7,0.2,8.1,1,112
+Guava,Fruit,68,2.6,14.3,1,5.4,18,0.3,228.3,2,417
+Pineapple,Fruit,50,0.5,13.1,0.1,1.4,13,0.3,47.8,1,109
+Strawberry,Fruit,32,0.7,7.7,0.3,2,16,0.4,58.8,1,153
+Carrot,Vegetable,41,0.9,9.6,0.2,2.8,33,0.3,5.9,69,320
+Spinach,Vegetable,23,2.9,3.6,0.4,2.2,99,2.7,28.1,79,558
+Broccoli,Vegetable,34,2.8,6.6,0.4,2.6,47,0.7,89.2,33,316
+Tomato,Vegetable,18,0.9,3.9,0.2,1.2,10,0.3,13.7,5,237
+Cucumber,Vegetable,15,0.7,3.6,0.1,0.5,16,0.3,2.8,2,147
+Cauliflower,Vegetable,25,1.9,5,0.3,2,22,0.4,48.2,30,299
+Cabbage,Vegetable,25,1.3,5.8,0.1,2.5,40,0.5,36.6,18,170
+Onion,Vegetable,40,1.1,9.3,0.1,1.7,23,0.2,7.4,4,146
+Capsicum,Vegetable,31,1,6,0.3,2.1,7,0.4,127.7,4,211
+Peas,Vegetable,81,5.4,14.5,0.4,5.1,25,1.5,40,5,244
+Mushroom,Vegetable,22,3.1,3.3,0.3,1,3,0.5,2.1,5,318
+Bhindi,Vegetable,33,1.9,7.5,0.2,3.2,82,0.6,23,7,299
+Pumpkin,Vegetable,26,1,6.5,0.1,0.5,21,0.8,9,1,340
+Ghee,Healthy Fat,900,0,0,100,0,0,0,0,0,0
+Olive Oil,Healthy Fat,884,0,0,100,0,1,0.6,0,2,1
+Butter,Healthy Fat,717,0.9,0.1,81.1,0,24,0,0,11,24
+Sugar,Carbohydrate,387,0,100,0,0,1,0,0,1,2
+Honey,Carbohydrate,304,0.3,82.4,0,0.2,6,0.4,0.5,4,52
+Bhuja Chana,Snack,369,20,61,6,18,57,7,0,12,718
+Protein Bar,Snack,350,25,35,10,8,150,2,0,180,300
+Cheese,Protein,402,25,1.3,33,0,721,0.7,0,621,98
+Fish,Protein,206,22,0,12,0,12,0.5,0,60,384
