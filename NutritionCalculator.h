@@ -1,6 +1,7 @@
 #pragma once
 #include "Models.h"
-class NutritionCalculator {
+class NutritionCalculator 
+{
 public:
     static double bmi(const User&);
     static std::string bmiCategory(double);
